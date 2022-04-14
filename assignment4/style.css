@@ -1,0 +1,44 @@
+
+.page {
+    background: #ffffff;
+    padding: 60px 15px;
+    border-radius: 4px;
+    border: 1px solid #e0e0e0  !important;
+}
+
+
+
+body {
+    background-color: #bcbbbb;
+    font-weight: 300
+}
+
+
+.user-bg {
+    background-color: #2975bd;
+}
+
+
+.card-block {
+    padding: 1.25rem
+}
+
+
+.img-radius {
+    border-radius: 5px;
+    height: 115px;
+    width: 115px;
+}
+
+
+.text-muted {
+    color: #919aa3 !important
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.divider {
+    border-bottom: 1px solid #e0e0e0 !important
+}
