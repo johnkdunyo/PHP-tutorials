@@ -40,7 +40,6 @@ function checkUserNameExists($username){
         $ErrorMessage = "";
     }
     return $ErrorMessage;
-
 }
 
 // function to get all form data and put it in an array
@@ -71,7 +70,6 @@ function storeTextFileDB($userData){
     fwrite($file, json_encode($userData));
     fclose($file);
 }
-
 
 
 
